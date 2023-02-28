@@ -16,6 +16,7 @@
 #### All methods in the following UML diagram should be implemented in MyStack class:
 
 <img width="403" alt="stack" src="https://user-images.githubusercontent.com/124915257/221993577-94bd2ca8-3310-4a19-b34e-019f63592f5a.PNG">
+
 ## ParanthesisChecker Class
 #### Complete isCorrect method. An example input and output are given below:
 #### Input:
