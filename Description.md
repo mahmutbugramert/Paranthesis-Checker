@@ -21,5 +21,4 @@
 #### Input:
 <img width="298" alt="codeexample" src="https://user-images.githubusercontent.com/124915257/221993721-9b47444f-2807-4488-8568-bdb7cef55642.PNG">
 
-Example path
-Output: true
+#### Output: true
