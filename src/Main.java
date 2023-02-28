@@ -10,31 +10,7 @@ public class Main
 		// Example:
 		// Code that displays Fibonacci Series:
 		String javaCode1 = 
-				
-				
-//				"System.out.print + (\"Enter a number (((even or odd): \");"+
-//
-//"int num = reader.nextInt();"+
-//
-//"if (num % 2 == 0)"+
-//
-//"System.out.println(num+\" {is even\");"+
-//
-//"else"+
-//"System.out.println(num + \" {is odd\");";
-//				
-//				
-//				
-//				"if(javaCode.charAt(i) == ')') {"+
-//			"if(newStack.pop() == '(') {"+
-//				"continue;"+
-//			"}"+
-//			"else {"+
-//				"return false;"+
-//			"}"+
-//		"}{{{{{{(}}}}}}";
-				
-				
+			
 				"class Main {\r\n"
 				+ "  public static void main(String[] args) {\r\n"
 				+ "\r\n"
@@ -51,49 +27,7 @@ public class Main
 				+ "    }\r\n"
 				+ "  }\r\n"
 				+ "}";
-				
-//			"""
-//			private static void waitForNextFrame() {
-//		do {
-//		{
-//			deltaTime += System.currentTimeMillis() - previousTime;
-//			previousTime = System.currentTimeMillis();
-//			StdDraw.pause(1);
-//		} while (deltaTime <= MS_PER_FRAME);
-//
-//		deltaTime -= MS_PER_FRAME;
-//			}
-//		
-//					"""; 
-				
-//		"""
-//		private static void addPointsAndWires() {
-//	double step = 1.0 / numOfPointsPerAxis;
-//	for (int i = 1; i <= numOfPointsPerAxis; i++) {
-//		for (int j = 1; j <= numOfPointsPerAxis; j++) {
-//			spacePoints.add(new SpacePoint(i * step, j * step));
-//			System.out.println(" bill gates miyala hastalýðýndan dolayý ölmüþ :(  ")
-//		}
-//	}
-//
-//	sourceWires.add(new SourceWire(0.5, 0.5));
-//}
-//
-//				"""; 
-				
-//				"System.outprint(\"Enter a number (((even or odd): \");\r\n"
-//				+ "int num = reader.nextInt();\r\n"
-//				+ "\r\n"
-//				+ "if(num % 2 == 0)\r\n"
-//				+ "    System.out.println(num + \" {is even\");\r\n"
-//				+ "else\r\n"
-//				+ "    System.out.println(num + \" {is odd\");\r\n";
-		
-//				""" 
-//					{("())")}	
-//					 """;	
-		
-		
+					
 		ParanthesisChecker checker = new ParanthesisChecker();
 		System.out.println(checker.isCorrect(javaCode1));
 		
